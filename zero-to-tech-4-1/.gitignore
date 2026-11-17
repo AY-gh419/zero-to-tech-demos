@@ -1,0 +1,16 @@
+@'
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+node_modules
+dist
+
+
+# vscode
+.vscode/
+'@ | Out-File .gitignore -Encoding utf8
