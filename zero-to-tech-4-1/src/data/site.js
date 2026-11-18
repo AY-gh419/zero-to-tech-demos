@@ -11,7 +11,7 @@ export const home = {
   featuredWork: {
     kicker: "作品",
     title: "文字实验室",
-    copy: "拼音和情绪，挖掘中文里的细节",
+    copy: "拼音和情绪，都是情感的表达",
     linkLabel: "打开作品",
   },
   identity: {
